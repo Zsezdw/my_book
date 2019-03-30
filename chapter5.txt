@@ -1,1 +1,2 @@
 Zadanie 2a. Dodaje jakąś zmianę w zdalnym repozytorum
+druga linijka 
